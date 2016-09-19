@@ -1,0 +1,6 @@
+[package]
+name = "coreclr"
+version = "0.1.0"
+authors = ["Andrew Stanton-Nurse <andrew@andrewnurse.net>"]
+
+[dependencies]

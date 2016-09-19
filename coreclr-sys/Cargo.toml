@@ -1,0 +1,8 @@
+[package]
+name = "coreclr-sys"
+version = "0.1.0"
+authors = ["Andrew Stanton-Nurse <andrew@andrewnurse.net>"]
+links = "coreclr"
+build = "build.rs"
+
+[dependencies]
